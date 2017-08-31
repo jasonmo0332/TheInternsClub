@@ -1,0 +1,137 @@
+{\rtf1\ansi\ansicpg1252\cocoartf1504\cocoasubrtf600
+{\fonttbl\f0\froman\fcharset0 TimesNewRomanPSMT;\f1\ftech\fcharset77 Symbol;}
+{\colortbl;\red255\green255\blue255;}
+{\*\expandedcolortbl;\csgray\c100000;}
+{\*\listtable{\list\listtemplateid1\listhybrid{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace360\levelindent0{\*\levelmarker \{disc\}}{\leveltext\leveltemplateid1\'01\uc0\u8226 ;}{\levelnumbers;}\fi-360\li720\lin720 }{\listname ;}\listid1}
+{\list\listtemplateid2\listhybrid{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace360\levelindent0{\*\levelmarker \{disc\}}{\leveltext\leveltemplateid101\'01\uc0\u8226 ;}{\levelnumbers;}\fi-360\li720\lin720 }{\listname ;}\listid2}
+{\list\listtemplateid3\listhybrid{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace360\levelindent0{\*\levelmarker \{disc\}}{\leveltext\leveltemplateid201\'01\uc0\u8226 ;}{\levelnumbers;}\fi-360\li720\lin720 }{\listname ;}\listid3}
+{\list\listtemplateid4\listhybrid{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace360\levelindent0{\*\levelmarker \{disc\}}{\leveltext\leveltemplateid301\'01\uc0\u8226 ;}{\levelnumbers;}\fi-360\li720\lin720 }{\listname ;}\listid4}}
+{\*\listoverridetable{\listoverride\listid1\listoverridecount0\ls1}{\listoverride\listid2\listoverridecount0\ls2}{\listoverride\listid3\listoverridecount0\ls3}{\listoverride\listid4\listoverridecount0\ls4}}
+\margl1440\margr1440\vieww10800\viewh8400\viewkind0
+\deftab720
+\pard\pardeftab720\ri0\sa120\qc\partightenfactor0
+
+\f0\b\fs28 \cf0 Tommy Trojan
+\b0 \
+\pard\pardeftab720\ri0\sa120\qc\partightenfactor0
+
+\fs20 \cf0 245 West Stocker St. Ap. #I, Glendale, California 91202\
+Telephone: (818)-641-8945\
+\pard\pardeftab720\ri0\qc\partightenfactor0
+\cf0 Email: {\field{\*\fldinst{HYPERLINK "mailto:ninarehmehrabi@yahoo.com"}}{\fldrslt ninarehmehrabi@yahoo.com}}\
+\pard\pardeftab720\ri0\partightenfactor0
+\cf0 _____________________________________________________________________________________________\
+\pard\pardeftab720\ri0\sa60\partightenfactor0
+
+\b \cf0 \ul \ulc0 Education\
+\pard\tx5760\pardeftab720\ri0\sa60\partightenfactor0
+\cf0 \ulnone University of Southern California, 
+\b0 Los Angeles, CA                            August 2015- May 2018\
+\pard\pardeftab720\ri0\sa60\partightenfactor0
+\cf0 Grade Point Average: 3.81\
+Major: Computer Engineering and Computer Science\
+\
+\pard\pardeftab720\ri0\sa60\partightenfactor0
+
+\b \cf0 Glendale Community College, 
+\b0 Glendale, CA                                        February 2014- July 2015\
+Grade Point Average: 4.0\
+Major: Computer Science and Engineering\
+\
+\pard\tx5940\pardeftab720\ri0\sa60\partightenfactor0
+
+\b \cf0 Shahid Beheshti University, 
+\b0 Tehran, Iran                                               September 2011- May 2013\
+\pard\pardeftab720\ri0\sa60\partightenfactor0
+\cf0 Grade Point Average: 17.21 out of 20 (Rank 1/35)\
+Major: Computer Science_____________________________________________________________________________________________
+\b \ul Work Experience\ulnone \
+\pard\tx5940\pardeftab720\ri0\sa60\partightenfactor0
+\cf0 Glendale Community College, 
+\b0 Glendale, CA                                         September 2014- September 2015\
+\pard\pardeftab720\ri0\sa60\partightenfactor0
+\cf0 Math Tutor at the Learning Center\
+\
+\pard\pardeftab720\ri0\sa60\partightenfactor0
+
+\b \cf0 Bravo Learning center, 
+\b0 Glendale, CA	                                           August 2015- October 2015\
+Physics, Chemistry, Math, Computer Programming tutor\
+\
+
+\b Children\'92s Hospital Los Angeles, 
+\b0 Los Angeles, CA                              May 2016- July 2016\
+Research Assistant\
+\pard\pardeftab720\ri0\partightenfactor0
+\cf0 _____________________________________________________________________________________________\
+\pard\pardeftab720\ri0\sa60\partightenfactor0
+
+\b \cf0 \ul \ulc0 Experiences and Skills
+\b0 \ulnone  \
+\pard\pardeftab720\li720\fi-360\ri0\sa60\partightenfactor0
+\ls1\ilvl0
+\f1 \cf0 \'a5	
+\f0 Fluent in English, Armenian, and Farsi\
+\ls1\ilvl0
+\f1 \'a5	
+\f0 Proficient in Java, C, C++, and Assembly programming languages\
+\ls1\ilvl0
+\f1 \'a5	
+\f0 Knowledge in HTML, CSS, CMOS, FPGA, Xilinx ISE, Cadence Virtuoso, HSPICE, Unix, GitHub, Maple, Python, Microsoft Office, Verilog, MySQL\
+\ls1\ilvl0
+\f1 \'a5	
+\f0 Directed research under Dr. Nazarian in testing and verification of digital systems using HSPICE\
+\ls1\ilvl0
+\f1 \'a5	
+\f0 Former Iranian Students' Robo-Cup Team Member\
+\pard\pardeftab720\li720\fi-360\ri0\partightenfactor0
+\ls1\ilvl0
+\f1 \cf0 \'a5	
+\f0 Mathematics Olympiad member in Iran. Three times got admission from IMO.\
+\pard\pardeftab720\ri0\partightenfactor0
+\cf0 _____________________________________________________________________________________________\
+\pard\pardeftab720\ri0\sa60\qj\partightenfactor0
+
+\b \cf0 \ul \ulc0 Projects \
+\pard\pardeftab720\li720\fi-360\ri0\sa60\partightenfactor0
+\ls2\ilvl0
+\f1\b0 \cf0 \ulnone \'a5	
+\f0 Data Structures and Object Oriented Design: Built a search engine and a file based crawler \
+\ls2\ilvl0
+\f1 \'a5	
+\f0 Advance Programming: Worked on Ant Colony project  \
+\pard\pardeftab720\li720\fi-360\ri0\partightenfactor0
+\ls2\ilvl0
+\f1 \cf0 \'a5	
+\f0 Introduction to Embedded Systems: Built a thermostat using an Arduino microcontroller  \
+\ls2\ilvl0
+\f1 \'a5	
+\f0 Designed the Mastermind game using FPGA in Xilinx ISE for the Digital System Design course \
+\ls2\ilvl0
+\f1 \'a5	
+\f0 Designed a crosswalk control unit using Finite State Machine on FPGA\
+\pard\pardeftab720\ri0\partightenfactor0
+\cf0 _____________________________________________________________________________________________\
+\pard\pardeftab720\ri0\sa60\partightenfactor0
+
+\b \cf0 \ul \ulc0 Volunteer and Community Service
+\b0 \ulnone \
+\pard\tx5940\pardeftab720\ri0\sa60\partightenfactor0
+
+\b \cf0 Catholic Charities
+\b0 , Glendale, CA                                                            July 2014- August 2014\
+\pard\pardeftab720\li720\fi-360\ri0\sa60\partightenfactor0
+\ls3\ilvl0
+\f1 \cf0 \'a5	
+\f0 Worked as a translator and helped refugees to fill out applications, organized documents and passports.\
+\pard\pardeftab720\ri0\partightenfactor0
+\cf0 \
+\pard\pardeftab720\ri0\sa60\partightenfactor0
+
+\b \cf0 YWCA
+\b0 , Glendale, CA                                                                               June 2014- July 2014\
+\pard\pardeftab720\li720\fi-360\ri0\sl276\slmult1\sa60\partightenfactor0
+\ls4\ilvl0
+\f1 \cf0 \'a5	
+\f0 Volunteered at YWCA as a swim instructor, assistant, and lifeguard for 80 hours. \
+}
